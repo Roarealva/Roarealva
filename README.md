@@ -174,11 +174,11 @@ Acredito que tecnologia deve simplificar processos, reduzir custos e gerar valor
 
 <p>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com](https://www.linkedin.com/in/marcos-rogerio-botelho-pavani-0015271a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:roarealva@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -193,6 +193,9 @@ Acredito que tecnologia deve simplificar processos, reduzir custos e gerar valor
 <div align="center">
 
 ### Obrigado pela visita!
+
+Deus em primeiro Sempre !
+
 
 ⭐ Se algum projeto chamou sua atenção, fique à vontade para explorá-lo.
 
