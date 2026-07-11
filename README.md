@@ -1,6 +1,8 @@
 <div align="center">
-
-# Marcos Rogério Bot
+<p align="center">
+    <img src="assets/bannerchat.png" alt="Banner Marcos Rogério">
+</p>
+# Marcos Rogério Botelho Pavani
 
 ### Automação • Inteligência Artificial • Engenharia de Dados • Desenvolvimento de Software
 
@@ -178,6 +180,10 @@ Acredito que tecnologia deve simplificar processos, reduzir custos e gerar valor
 
 <a href="mailto:SEUEMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://roarealva.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
 </a>
 
 </p>
